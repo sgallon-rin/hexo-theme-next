@@ -193,10 +193,11 @@ social:
   #Instagram: https://instagram.com/yourname || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
   # Linkenin: https://www.linkedin.com/in/your_id || fab fa-linkedin
+  Bilibili: https://space.bilibili.com/13085378 || fas fa-tv
 
 social_icons:
   enable: true
-  icons_only: true
+  icons_only: false
   transition: false
 
 # Blog rolls
