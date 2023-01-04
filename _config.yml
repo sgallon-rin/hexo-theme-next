@@ -194,6 +194,7 @@ social:
   #Skype: skype:yourname?call|chat || fab fa-skype
   # Linkenin: https://www.linkedin.com/in/your_id || fab fa-linkedin
   Bilibili: https://space.bilibili.com/13085378 || fas fa-tv
+  Pixiv: https://www.pixiv.net/users/26648460 || fa fa-paint-brush
 
 social_icons:
   enable: true
