@@ -185,14 +185,17 @@ social:
   GitHub: https://github.com/sgallon-rin || fab fa-github
   Email: mailto:shenjl@lr.pi.titech.ac.jp || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
-  #Google: https://plus.google.com/yourname || fab fa-google
-  Twitter: https://twitter.com/JialunShen || fab fa-twitter
+  Scholar: https://scholar.google.com/citations?user=RyD2MoYAAAAJ || fab fa-google
+  #Google: https://plus.google.com/yourname || fab fa-google fas fa-graduation-cap
+  #X(Twitter): https://twitter.com/JialunShen || fab fa-x-twitter
+  X(Twitter): https://twitter.com/JialunShen || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
   #Instagram: https://instagram.com/yourname || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
-  # Linkenin: https://www.linkedin.com/in/your_id || fab fa-linkedin
+  #Linkenin: https://www.linkedin.com/in/your_id || fab fa-linkedin
+  #Bilibili: https://space.bilibili.com/13085378 || fab fa-bilibili
   Bilibili: https://space.bilibili.com/13085378 || fas fa-tv
   Pixiv: https://www.pixiv.net/users/26648460 || fa fa-paint-brush
 
